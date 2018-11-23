@@ -1,0 +1,15 @@
+# In-Situ PEDT
+# PEDT:PSS=1:0, (in-situ: no PSS!)
+# for reference
+# data from H.C. Starck, www.hcstarck.com
+# wavelength (nm) n k
+350 1.4825 0.0485
+400 1.3945 0.069
+450 1.316 0.1005
+500 1.245 0.1435
+550 1.182 0.1975
+600 1.1255 0.262
+650 1.081 0.3385
+700 1.044 0.425
+750 1.014 0.523
+800 0.9915 0.632
